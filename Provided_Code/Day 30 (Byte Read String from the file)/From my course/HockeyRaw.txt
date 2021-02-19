@@ -1,0 +1,45 @@
+Justin Bailey,95,6 3,214,1-Jul-95,Buffalo, NY, USA
+Nicholas Baptiste,13,6 1,206,4-Aug-95,Ottawa, ON, CAN
+Eric Cornel,46,6 2,194,11-Apr-96,Peterborough, ON, CAN
+Kyle Criscuolo,51,5 8,170,5-May-92,Southampton, NJ, USA
+Nicolas Deslauriers,44,6 1,215,22-Feb-91,LaSalle, QC, CAN
+Jack Eichel,15,6 2,206,28-Oct-96,North Chelmsford, MA, USA
+Hudson Fasching,24,6 2,209,28-Jul-95,Milwaukee, WI, USA
+Zemgus Girgensons,28,6 2,207,5-Jan-94,Riga, LVA
+Seth Griffith,25,5 9,190,4-Jan-93,Wallaceburg, ON, CAN
+Jacob Josefson,10,6 0,196,2-Mar-91,Stockholm, SWE
+Evander Kane,9,6 2,212,2-Aug-91,Vancouver, BC, CAN
+Vaclav Karabacek,64,6 0,196,2-May-96,Brandys Nad Labem, CZE
+Johan Larsson,22,5 11,198,25-Jul-92,Lau, SWE
+Sean Malone,37,6 0,190,30-Apr-95,Buffalo, NY, USA
+Matt Moulson,26,6 1,203,1-Nov-83,North York, ON, CAN
+Alexander Nylander,92,6 1,180,2-Mar-98,Calgary, AB, CAN
+Ryan OReilly,90,6 1,210,7-Feb-91,Clinton, ON, CAN
+Kyle Okposo,21,6 0,218,16-Apr-88,St. Paul, MN, USA
+Jason Pominville,29,6 0,181,30-Nov-82,Repentigny, QC, CAN
+Kevin Porter,12,5 11,191,12-Mar-86,Detroit, MI, USA
+Benoit Pouliot,67,6 3,204,29-Sep-86,Alfred, ON, CAN
+Cliff Pu,59,6 2,192,3-Jun-98,Richmond Hill, ON, CAN
+Sam Reinhart,23,6 1,193,6-Nov-95,West Vancouver, BC, CAN
+Evan Rodrigues,71,5 10,183,28-Jul-93,Toronto, ON, CAN
+C.J. Smith,49,5 11,185,1-Dec-94,Des Moines, IA, USA
+Victor Antipin,93,5 11,175,6-Dec-92,Ust-Kamenogorsk, KAZ
+Nathan Beaulieu,82,6 2,200,5-Dec-92,Strathroy, ON, CAN
+Zach Bogosian,47,6 3,221,15-Jul-90,Massena, NY, USA
+Justin Falk,41,6 5,223,11-Oct-88,Snowflake, MB, CAN
+Taylor Fedun,27,6 1,201,4-Jun-88,Edmonton, AB, CAN
+Josh Gorges,4,6 1,204,14-Aug-84,Kelowna, BC, CAN
+Brendan Guhle,45,6 1,186,29-Jul-97,Edmonton, AB, CAN
+Brycen Martin,54,6 2,212,9-May-96,Calgary, AB, CAN
+Jake McCabe,19,6 1,210,12-Oct-93,Eau Claire, WI, USA
+Casey Nelson,8,6 1,190,18-Jul-92,Wisconsin Rapids, WI, USA
+Rasmus Ristolainen,55,6 4,203,27-Oct-94,Turku, FIN
+Marco Scandella,6,6 3,208,23-Feb-90,Montreal, QC, CAN
+Devante Stephens,53,6 1,172,2-Jan-97,Surrey, BC, CAN
+Matt Tennyson,5,6 2,205,23-Apr-90,Minneapolis, MN, USA
+Jonas Johansson,34,6 4,206,19-Sep-95,G„vle, SWE
+Chad Johnson,31,6 3,197,10-Jun-86,Saskatoon, SK, CAN
+Jason Kasdorf,33,6 4,194,18-May-92,Winnipeg, MB, CAN
+Robin Lehner,40,6 4,245,24-Jul-91,Gothenburg, SWE
+Linus Ullmark,35,6 4,221,31-Jul-93,Lugnvik, SWE
+Adam Wilcox,32,6 0,187,26-Nov-92,South St. Paul, MN, USA
