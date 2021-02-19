@@ -1,8 +1,7 @@
 /**
   * Yanshen Lin
   * ISTE-120
-  * Homework 10
- */
+**/
 import java.util.*; 
 public class Skyscraper
 {
@@ -40,100 +39,6 @@ public class Skyscraper
  
  public void computeClues()
  {
-/*  
-  //top array
-  int clue = 1;
-  for(int i = 0; i < puzzle.length; i++)
-  {
-   for(int j = 1; j < puzzle[i].length;j++)
-   {
-    if(puzzle[j][i] > puzzle[j-1][i])
-    {
-     clue = clue + 1;
-    }
-    else if(puzzle[j][i] <= puzzle[j-1][i]) 
-    {
-     clue = clue;
-    }  
-  
-   }//loop
-  
-   top[i] = clue;
-   clue = 1;
-  }//loop
-  
-  
- //bottom array 
-  for(int i = 0; i < puzzle.length; i++)
-  {
-   clue = 1;
-   for(int j = puzzle.length - 1; j > 0; j--)
-   {
-    if(puzzle[j-1][i] > puzzle[j][i])
-    {
-     clue = clue + 1;
-    }
-    else if(puzzle[j-1][i] <= puzzle[j][i]) 
-    {
-     clue = clue;
-    }  
-  
-   }//loop
-  
-   bottom[i] = clue;
-   clue = 1;
-  }//loop
-
-
-
-
-//left array
-  for(int i = 0; i < puzzle.length; i++)
-  {
-   clue = 1;
-   for(int j = 1; j < puzzle[i].length;j++)
-   {
-    if(puzzle[i][j] > puzzle[i][j - 1])
-    {
-     clue = clue + 1;
-    }
-    else if(puzzle[i][j] <= puzzle[i][j-1]) 
-    {
-     clue = clue;
-    }  
-  
-   }//loop
-  
-   left[i] = clue;
-   clue = 1;
-  }//loop  
-  
-//get the hghest value and index of the highest value. 
-
-
-//right array
-  for(int i = 0; i < puzzle.length; i++)
-  {
-   clue = 1;
-   for(int j = puzzle.length - 1; j > 0;j--)
-   {
-    if(puzzle[i][j - 1] > puzzle[i][j])
-    {
-     clue = clue + 1;
-    }
-    else if(puzzle[i][j - 1] <= puzzle[i][j]) 
-    {
-     clue = clue;
-    }  
-  
-   }//loop
-  
-   right[i] = clue;
-   clue = 1;
-  }//loop  
-  
-  
-*/
 //top array
    int largest = 0;
    int clue = 0;
@@ -246,14 +151,7 @@ public class Skyscraper
    System.out.printf("%3s   ", bottom[i]);
   }
   System.out.print("|");
-  
-  
-  
-  
-  
-  
-  
-  
+ 
  }
   
   
